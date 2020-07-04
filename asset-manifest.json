@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Dice/static/css/main.b6f682c7.chunk.css",
+    "main.js": "/Dice/static/js/main.568b1bbc.chunk.js",
+    "main.js.map": "/Dice/static/js/main.568b1bbc.chunk.js.map",
+    "runtime-main.js": "/Dice/static/js/runtime-main.ec8bed4b.js",
+    "runtime-main.js.map": "/Dice/static/js/runtime-main.ec8bed4b.js.map",
+    "static/css/2.d15965fa.chunk.css": "/Dice/static/css/2.d15965fa.chunk.css",
+    "static/js/2.ac080493.chunk.js": "/Dice/static/js/2.ac080493.chunk.js",
+    "static/js/2.ac080493.chunk.js.map": "/Dice/static/js/2.ac080493.chunk.js.map",
+    "index.html": "/Dice/index.html",
+    "precache-manifest.a058d40bd98c0ec195cde9135b453814.js": "/Dice/precache-manifest.a058d40bd98c0ec195cde9135b453814.js",
+    "service-worker.js": "/Dice/service-worker.js",
+    "static/css/2.d15965fa.chunk.css.map": "/Dice/static/css/2.d15965fa.chunk.css.map",
+    "static/css/main.b6f682c7.chunk.css.map": "/Dice/static/css/main.b6f682c7.chunk.css.map",
+    "static/js/2.ac080493.chunk.js.LICENSE.txt": "/Dice/static/js/2.ac080493.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Dice/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8bed4b.js",
+    "static/css/2.d15965fa.chunk.css",
+    "static/js/2.ac080493.chunk.js",
+    "static/css/main.b6f682c7.chunk.css",
+    "static/js/main.568b1bbc.chunk.js"
+  ]
+}
